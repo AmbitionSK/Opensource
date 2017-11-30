@@ -20,7 +20,6 @@
 
 <img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/02.png" width="375px" height="667px"/>
 
-<img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/03.png" width="375px" height="667px"/>
 ### 开发环境：
 微信web开发者工具 v0.9.092300
 
